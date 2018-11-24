@@ -1,0 +1,3 @@
+"use strict";
+module.exports = app => { };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vc3JjL2xpYi9wbHVnaW4vZWdnLXVzZXJhZ2VudC9hcHAudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBLGlCQUFTLEdBQUcsQ0FBQyxFQUFFLEdBQUUsQ0FBQyxDQUFDIn0=
