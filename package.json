@@ -1,6 +1,6 @@
 {
-    "name": "egg-useragent",
-    "version": "0.1.0",
+    "name": "@zqun/egg-useragent",
+    "version": "1.0.0",
     "description": "eggjs user-agent middleware",
     "eggPlugin": {
       "name": "useragent"

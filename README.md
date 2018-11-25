@@ -6,7 +6,7 @@ eggjs user-agent extend plugin
 ## Install
 
 ```bash
-$ npm i egg-useragent --save
+$ npm i @zqun/egg-useragent --save
 ```
 
 ## Configuration
